@@ -1,0 +1,6 @@
+error CS2001: Source file `Assets/Standard Assets/EditorScript/Ro.Unity/Ro/AssetManager.cs' could not be found
+error CS2001: Source file `Assets/Standard Assets/EditorScript/Ro.Unity/Ro/AssetManagerEnv.cs' could not be found
+error CS2001: Source file `Assets/Standard Assets/EditorScript/Ro.Unity/Ro/AssetManagerScene.cs' could not be found
+error CS2001: Source file `Assets/Standard Assets/EditorScript/Ro.Unity/Ro/AssetManagerUtil.cs' could not be found
+
+Compilation failed: 4 error(s), 0 warnings

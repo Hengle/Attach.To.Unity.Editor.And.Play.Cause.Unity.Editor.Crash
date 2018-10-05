@@ -1,0 +1,13 @@
+ResponseException: Response error
+RedisClient.SendExpectInt (System.String cmd, System.Object[] args) (at /home/roroco/Dropbox/cs/Ro/Ro/RedisClient.cs:426)
+RedisClient.Remove (System.String key) (at /home/roroco/Dropbox/cs/Ro/Ro/RedisClient.cs:528)
+Ro.Redis.Del (System.String key) (at /home/roroco/Dropbox/cs/Ro/Ro/Redis.cs:48)
+Ed.Ro.Replay.StartPlay () (at Assets/Standard Assets/Editor/Lib/Ro.Unity/Ro/Replay.cs:62)
+Ed.Ro.Replay.St2 () (at Assets/Standard Assets/Editor/Lib/Ro.Unity/Ro/Replay.cs:46)
+Ed.Ro.Replay.St () (at Assets/Standard Assets/Editor/Lib/Ro.Unity/Ro/Replay.cs:31)
+EditorScript.Ro.Startup.ReceiveRiderCmd.CallReplay () (at Assets/Standard Assets/Editor/Lib/Ro.Unity/Ro/Startup/ReceiveRiderCmd.cs:98)
+EditorScript.Ro.Startup.ReceiveRiderCmd.ToReceiveRiderCmd () (at Assets/Standard Assets/Editor/Lib/Ro.Unity/Ro/Startup/ReceiveRiderCmd.cs:67)
+Rethrow as Exception: Response error
+EditorScript.Ro.Startup.ReceiveRiderCmd.ToReceiveRiderCmd () (at Assets/Standard Assets/Editor/Lib/Ro.Unity/Ro/Startup/ReceiveRiderCmd.cs:89)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at /home/builduser/buildslave/unity/build/Editor/Mono/EditorApplication.cs:127)
+

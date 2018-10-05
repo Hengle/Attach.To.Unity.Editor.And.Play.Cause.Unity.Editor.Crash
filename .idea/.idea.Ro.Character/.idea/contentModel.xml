@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Ro.Character.1424113261.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/AstarPathfindingProject" t="Include">
+        <e p="ExampleScenes" t="Include">
+          <e p="Example8_PathTypes" t="Include">
+            <e p="SquareShader.shader" t="Include" />
+          </e>
+          <e p="Materials" t="Include">
+            <e p="DiffuseAlwaysVisible.shader" t="Include" />
+            <e p="Projector Light.shader" t="Include" />
+          </e>
+          <e p="_Example Scenes.txt" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Clipper" t="Include">
+            <e p="ClipperLicense.txt" t="Include" />
+          </e>
+          <e p="DotNetZip" t="Include">
+            <e p="DotNetZipLicense.txt" t="Include" />
+          </e>
+          <e p="Poly2Tri" t="Include">
+            <e p="Poly2TriLicense.txt" t="Include" />
+          </e>
+          <e p="dependencies.txt" t="Include" />
+        </e>
+        <e p="Readme.txt" t="Include" />
+        <e p="Readme_upgrading.txt" t="Include" />
+        <e p="link.xml" t="Include" />
+      </e>
+      <e p="Assets/Draft" t="Include">
+        <e p="TestPrivateFieldAutoRefresh.cs" t="Include" />
+      </e>
+      <e p="Assets/SDKohaku-Chanz OPV" t="Include">
+        <e p="Readme.txt" t="Include" />
+        <e p="Shader" t="Include">
+          <e p="CharaSkin.cginc" t="Include" />
+          <e p="Unitychan_chara_eye.shader" t="Include" />
+          <e p="readme.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Assets/SDUnity-chan_Adventure_Action_Pack" t="Include">
+        <e p="readme.txt" t="Include" />
+      </e>
+      <e p="Assets/Script" t="Include">
+        <e p="Ro" t="Include">
+          <e p="Character" t="Include">
+            <e p="AI.cs" t="Include" />
+            <e p="CharacterBase.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="SDUnityChanCtrl.cs" t="Include" />
+            <e p="SDUnityChanWithRig.cs" t="Include" />
+            <e p="TeruTeruCtrl.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets/Standard Assets" t="Include">
+        <e p="Dll" t="Include">
+          <e p="MathNet.Numerics.xml" t="Include" />
+          <e p="Newtonsoft.Json.xml" t="Include" />
+          <e p="System.Net.Http.Primitives.xml" t="Include" />
+        </e>
+        <e p="EditorScript" t="Include">
+          <e p="Ro.Unity" t="Include">
+            <e p="Ro" t="Include">
+              <e p="AddPrefab.cs" t="Include" />
+              <e p="BakDeletedAsset.cs" t="Include" />
+              <e p="BuildBase.cs" t="Include" />
+              <e p="ClearConsoleOutput.cs" t="Include" />
+              <e p="Conf.cs" t="Include" />
+              <e p="CopySelectedPath.cs" t="Include" />
+              <e p="EW.cs" t="Include" />
+              <e p="EditorCtrl.cs" t="Include" />
+              <e p="EditorEnv.cs" t="Include" />
+              <e p="EditorListView.cs" t="Include" />
+              <e p="EditorUtil.cs" t="Include" />
+              <e p="FocusHierarchySearchbar.cs" t="Include" />
+              <e p="FocusProjectSearchbar.cs" t="Include" />
+              <e p="ListGameObjects.cs" t="Include" />
+              <e p="MainThrDispatcher.cs" t="Include" />
+              <e p="MoveAndJump.cs" t="Include" />
+              <e p="OnOpenAsset.cs" t="Include" />
+              <e p="OpenPj.cs" t="Include" />
+              <e p="PlayOrReload.cs" t="Include" />
+              <e p="Popup.cs" t="Include" />
+              <e p="ReImportAllEditorScripts.cs" t="Include" />
+              <e p="Refresh.cs" t="Include" />
+              <e p="ReimportAllScripts.cs" t="Include" />
+              <e p="Replay.cs" t="Include" />
+              <e p="ReplayRoTestScene.cs" t="Include" />
+              <e p="RoAddComponent.cs" t="Include" />
+              <e p="RoEditorGUI.cs" t="Include" />
+              <e p="RoGui.cs" t="Include" />
+              <e p="Startup" t="Include">
+                <e p="AutoSave.cs" t="Include" />
+                <e p="ChangeUnityEditorWindowTitle.cs" t="Include" />
+                <e p="CodeLint" t="Include">
+                  <e p="DraftAndTestScriptShouldBeIgnoredInBuild.cs" t="Include" />
+                  <e p="MoveLibScriptsToStandardAssets.cs" t="Include" />
+                </e>
+                <e p="CodeLint.cs" t="Include" />
+                <e p="EnableAutoRefresh.cs" t="Include" />
+                <e p="MakeSureEditorScriptOnlyRunInEditor.cs" t="Include" />
+                <e p="MakeSureGitConf.cs" t="Include" />
+                <e p="ProbuilderDisableTooltip.cs" t="Include" />
+                <e p="ReceiveRiderCmd.cs" t="Include" />
+                <e p="ShowLogInRider.cs" t="Include" />
+                <e p="StartupMain.cs" t="Include" />
+              </e>
+              <e p="StopPlay.cs" t="Include" />
+              <e p="SyncRoDeps.cs" t="Include" />
+              <e p="ToRoTestScene.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Ro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LuckiestGuy" t="Include">
+                <e p="LICENSE.txt" t="Include" />
+              </e>
+              <e p="OpenSans" t="Include">
+                <e p="LICENSE.txt" t="Include" />
+              </e>
+              <e p="artianniugbbd_test" t="Include">
+                <e p="Readme.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="Lib" t="Include">
+            <e p="Ro.Unity" t="Include">
+              <e p="Ro" t="Include">
+                <e p="BirdEyeCameraFollowCharacter.cs" t="Include" />
+                <e p="Cache.cs" t="Include" />
+                <e p="CameraFollowCharacter.cs" t="Include" />
+                <e p="CanExternalCtrlObject.cs" t="Include" />
+                <e p="Character.cs" t="Include" />
+                <e p="Env.cs" t="Include" />
+                <e p="Ext" t="Include">
+                  <e p="GameobjectExt.cs" t="Include" />
+                  <e p="MonoBehaviourExt.cs" t="Include" />
+                  <e p="TransformExt.cs" t="Include" />
+                  <e p="UI" t="Include">
+                    <e p="CtrlExt.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="MathUtil.cs" t="Include" />
+                <e p="Object" t="Include">
+                  <e p="NotScaleMaterialCube.cs" t="Include" />
+                  <e p="NotScaleMaterialFace.cs" t="Include" />
+                </e>
+                <e p="PrprScript.cs" t="Include" />
+                <e p="RoLine.cs" t="Include" />
+                <e p="RunTestsScript.cs" t="Include" />
+                <e p="TestCase.cs" t="Include" />
+                <e p="TestScript.cs" t="Include" />
+                <e p="TestUtil.cs" t="Include" />
+                <e p="ThirdPersonControllerCharacterExt.cs" t="Include" />
+                <e p="UI" t="Include">
+                  <e p="Button.cs" t="Include" />
+                  <e p="Container.cs" t="Include" />
+                  <e p="Ctrl.cs" t="Include" />
+                  <e p="CtrlAnchor.cs" t="Include" />
+                  <e p="GridView.cs" t="Include" />
+                  <e p="H.cs" t="Include" />
+                  <e p="HorizOrVertical.cs" t="Include" />
+                  <e p="Image.cs" t="Include" />
+                  <e p="ListOrGridView.cs" t="Include" />
+                  <e p="ListOrGridViewItem.cs" t="Include" />
+                  <e p="ListView.cs" t="Include" />
+                  <e p="Panel.cs" t="Include" />
+                  <e p="Progressbar.cs" t="Include" />
+                  <e p="RoUI.cs" t="Include" />
+                  <e p="Scrollbar.cs" t="Include" />
+                  <e p="Text.cs" t="Include" />
+                  <e p="UIObject.cs" t="Include" />
+                  <e p="V.cs" t="Include" />
+                </e>
+                <e p="Util.cs" t="Include" />
+                <e p="VisibleForce.cs" t="Include" />
+                <e p="Watches.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Assets/Suriyun" t="Include">
+        <e p="README.txt" t="Include" />
+        <e p="UnityChanShader_v1.2.4" t="Include">
+          <e p="Shader" t="Include">
+            <e p="CharaMain.cginc" t="Include" />
+            <e p="CharaOutline.cginc" t="Include" />
+            <e p="CharaSkin.cginc" t="Include" />
+            <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+            <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+            <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+            <e p="Unitychan_chara_fuku.shader" t="Include" />
+            <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+            <e p="Unitychan_chara_hada.shader" t="Include" />
+            <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+            <e p="Unitychan_chara_hair.shader" t="Include" />
+            <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Ro.Character.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

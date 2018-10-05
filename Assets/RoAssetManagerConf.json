@@ -1,0 +1,27 @@
+{
+// "fixedZ": 0, // you can set fixed Z Axis for make 2d map, 2d map all object z vals are same
+"rayMaxDist": 10,
+"assets": 
+    [
+        {
+            "path": "Assets/Resources/Ro/AssetManager/AssetManagerSamplePrefab.prefab",
+            "name": "PrefabObject", // will be show in window, if not set, default use filename
+            "shortcut": "p", // hit f2 focus Asset Manager window, and hit this shortcut to quickly select asset, set a shortcut that you like
+            // "fixedZ": 0, // if I set asset[fixedZ], whatever conf[fixedZ] or not, use this fixedZ
+            "parent": "PrefabParentObject" // if it"s prefab and fbx, if parent is set, generated object will be auto added to parent object, if parent object not exist, it will create it
+        },
+
+        {
+            "path": "Assets/Resources/Ro/AssetManager/AssetManagerSampleModel.fbx",
+            "name": "FBXObject", 
+            "shortcut": "g",
+            "parent": "PrefabParentObject"
+        },
+
+        {
+            "path": "Assets/Resources/Ro/AssetManager/AssetManagerSampleMaterial.prefab",
+            "shortcut": "m",
+            "name": "Material"
+        }
+    ]
+}

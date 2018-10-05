@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Test.Ro.Character.429836845.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/AstarPathfindingProject" t="Include">
+        <e p="ExampleScenes" t="Include">
+          <e p="Example8_PathTypes" t="Include">
+            <e p="SquareShader.shader" t="Include" />
+          </e>
+          <e p="Materials" t="Include">
+            <e p="DiffuseAlwaysVisible.shader" t="Include" />
+            <e p="Projector Light.shader" t="Include" />
+          </e>
+          <e p="_Example Scenes.txt" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Clipper" t="Include">
+            <e p="ClipperLicense.txt" t="Include" />
+          </e>
+          <e p="DotNetZip" t="Include">
+            <e p="DotNetZipLicense.txt" t="Include" />
+          </e>
+          <e p="Poly2Tri" t="Include">
+            <e p="Poly2TriLicense.txt" t="Include" />
+          </e>
+          <e p="dependencies.txt" t="Include" />
+        </e>
+        <e p="Readme.txt" t="Include" />
+        <e p="Readme_upgrading.txt" t="Include" />
+        <e p="link.xml" t="Include" />
+      </e>
+      <e p="Assets/Draft" t="Include">
+        <e p="TestPrivateFieldAutoRefresh.cs" t="Include" />
+      </e>
+      <e p="Assets/SDKohaku-Chanz OPV" t="Include">
+        <e p="Readme.txt" t="Include" />
+        <e p="Shader" t="Include">
+          <e p="CharaSkin.cginc" t="Include" />
+          <e p="Unitychan_chara_eye.shader" t="Include" />
+          <e p="readme.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Assets/SDUnity-chan_Adventure_Action_Pack" t="Include">
+        <e p="readme.txt" t="Include" />
+      </e>
+      <e p="Assets/Script" t="Include">
+        <e p="Ro" t="Include">
+          <e p="Character" t="Include">
+            <e p="AI.cs" t="Include" />
+            <e p="CharacterBase.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="SDUnityChanCtrl.cs" t="Include" />
+            <e p="SDUnityChanWithRig.cs" t="Include" />
+            <e p="TeruTeruCtrl.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets/Standard Assets" t="Include">
+        <e p="AstarPathfindingProject" t="Include">
+          <e p="Behaviors" t="Include">
+            <e p="AIDestinationSetter.cs" t="Include" />
+            <e p="Patrol.cs" t="Include" />
+          </e>
+          <e p="Core" t="Include">
+            <e p="AI" t="Include">
+              <e p="AIBase.cs" t="Include" />
+              <e p="AILerp.cs" t="Include" />
+              <e p="AIPath.cs" t="Include" />
+              <e p="IAstarAI.cs" t="Include" />
+              <e p="NavmeshController.cs" t="Include" />
+              <e p="RichAI.cs" t="Include" />
+              <e p="RichPath.cs" t="Include" />
+              <e p="Seeker.cs" t="Include" />
+              <e p="TurnBasedAI.cs" t="Include" />
+            </e>
+            <e p="AstarData.cs" t="Include" />
+            <e p="AstarMath.cs" t="Include" />
+            <e p="AstarPath.cs" t="Include" />
+            <e p="GraphUpdateScene.cs" t="Include" />
+            <e p="GraphUpdateShape.cs" t="Include" />
+            <e p="Misc" t="Include">
+              <e p="AnimationLink.cs" t="Include" />
+              <e p="ArrayPool.cs" t="Include" />
+              <e p="AstarDebugger.cs" t="Include" />
+              <e p="BinaryHeap.cs" t="Include" />
+              <e p="Draw.cs" t="Include" />
+              <e p="EditorResourceHelper.cs" t="Include" />
+              <e p="GraphEditorBase.cs" t="Include" />
+              <e p="GraphModifier.cs" t="Include" />
+              <e p="GraphUpdateProcessor.cs" t="Include" />
+              <e p="GraphUtilities.cs" t="Include" />
+              <e p="Int3.cs" t="Include" />
+              <e p="ListPool.cs" t="Include" />
+              <e p="MovementUtilities.cs" t="Include" />
+              <e p="NodeLink.cs" t="Include" />
+              <e p="NodeLink2.cs" t="Include" />
+              <e p="NodeLink3.cs" t="Include" />
+              <e p="ObjectPool.cs" t="Include" />
+              <e p="PathInterpolator.cs" t="Include" />
+              <e p="PathPool.cs" t="Include" />
+              <e p="PathProcessor.cs" t="Include" />
+              <e p="PathReturnQueue.cs" t="Include" />
+              <e p="StackPool.cs" t="Include" />
+              <e p="ThreadControlQueue.cs" t="Include" />
+              <e p="WindowsStoreCompatibility.cs" t="Include" />
+              <e p="WorkItemProcessor.cs" t="Include" />
+            </e>
+            <e p="Nodes" t="Include">
+              <e p="GraphNode.cs" t="Include" />
+            </e>
+            <e p="Path.cs" t="Include" />
+            <e p="PathHandler.cs" t="Include" />
+            <e p="RVO" t="Include">
+              <e p="RVOAgent.cs" t="Include" />
+              <e p="RVOCoreObstacle.cs" t="Include" />
+              <e p="RVOCoreSimulator.cs" t="Include" />
+              <e p="RVOLine.cs" t="Include" />
+              <e p="RVOQuadtree.cs" t="Include" />
+            </e>
+            <e p="Serialization" t="Include">
+              <e p="JsonConverters.cs" t="Include" />
+              <e p="JsonSerializer.cs" t="Include" />
+              <e p="SimpleJsonReplacement.cs" t="Include" />
+              <e p="SimpleZipReplacement.cs" t="Include" />
+              <e p="TinyJson.cs" t="Include" />
+            </e>
+            <e p="astarclasses.cs" t="Include" />
+          </e>
+          <e p="ExampleScenes" t="Include">
+            <e p="Example11_RVO" t="Include">
+              <e p="GroupController.cs" t="Include" />
+              <e p="LightweightRVO.cs" t="Include" />
+              <e p="RVOAgentPlacer.cs" t="Include" />
+              <e p="RVOExampleAgent.cs" t="Include" />
+            </e>
+            <e p="Example12_Procedural" t="Include">
+              <e p="ProceduralGridMover.cs" t="Include" />
+              <e p="ProceduralWorld.cs" t="Include" />
+            </e>
+            <e p="Example13_Moving" t="Include">
+              <e p="BezierMover.cs" t="Include" />
+              <e p="LocalSpaceGraph.cs" t="Include" />
+              <e p="LocalSpaceRichAI.cs" t="Include" />
+            </e>
+            <e p="Example14_TurnBased_Hexagon" t="Include">
+              <e p="Astar3DButton.cs" t="Include" />
+              <e p="HexagonTrigger.cs" t="Include" />
+              <e p="TurnBasedDoor.cs" t="Include" />
+              <e p="TurnBasedManager.cs" t="Include" />
+            </e>
+            <e p="Example16_RVO 2D" t="Include">
+              <e p="ExampleMover.cs" t="Include" />
+            </e>
+            <e p="Example3_Recast_Navmesh1" t="Include">
+              <e p="MecanimBridge.cs" t="Include" />
+            </e>
+            <e p="Example8_PathTypes" t="Include">
+              <e p="PathTypesDemo.cs" t="Include" />
+            </e>
+            <e p="ExampleScripts" t="Include">
+              <e p="AstarSmoothFollow2.cs" t="Include" />
+              <e p="DoorController.cs" t="Include" />
+              <e p="DynamicGridObstacle.cs" t="Include" />
+              <e p="ManualRVOAgent.cs" t="Include" />
+              <e p="MineBotAI.cs" t="Include" />
+              <e p="MineBotAnimation.cs" t="Include" />
+              <e p="NavmeshClamp.cs" t="Include" />
+              <e p="ObjectPlacer.cs" t="Include" />
+              <e p="RecastTileUpdate.cs" t="Include" />
+              <e p="RecastTileUpdateHandler.cs" t="Include" />
+              <e p="TargetMover.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Generators" t="Include">
+            <e p="Base.cs" t="Include" />
+            <e p="GridGenerator.cs" t="Include" />
+            <e p="LayerGridGraphGenerator.cs" t="Include" />
+            <e p="NavMeshGenerator.cs" t="Include" />
+            <e p="NavmeshBase.cs" t="Include" />
+            <e p="NodeClasses" t="Include">
+              <e p="GridNode.cs" t="Include" />
+              <e p="GridNodeBase.cs" t="Include" />
+              <e p="PointNode.cs" t="Include" />
+              <e p="TriangleMeshNode.cs" t="Include" />
+            </e>
+            <e p="PointGenerator.cs" t="Include" />
+            <e p="QuadtreeGraph.cs" t="Include" />
+            <e p="RecastGenerator.cs" t="Include" />
+            <e p="Utilities" t="Include">
+              <e p="BBTree.cs" t="Include" />
+              <e p="EuclideanEmbedding.cs" t="Include" />
+              <e p="GraphTransform.cs" t="Include" />
+              <e p="GridLookup.cs" t="Include" />
+              <e p="NavMeshRenderer.cs" t="Include" />
+              <e p="NavmeshTile.cs" t="Include" />
+              <e p="ObjImporter.cs" t="Include" />
+              <e p="PointKDTree.cs" t="Include" />
+              <e p="RecastBBTree.cs" t="Include" />
+              <e p="RecastMeshGatherer.cs" t="Include" />
+              <e p="RecastMeshObj.cs" t="Include" />
+              <e p="TileHandler.cs" t="Include" />
+              <e p="Voxels" t="Include">
+                <e p="DebugUtility.cs" t="Include" />
+                <e p="VoxelClasses.cs" t="Include" />
+                <e p="VoxelContour.cs" t="Include" />
+                <e p="VoxelMesh.cs" t="Include" />
+                <e p="VoxelPolygonClipper.cs" t="Include" />
+                <e p="VoxelRasterization.cs" t="Include" />
+                <e p="VoxelRegion.cs" t="Include" />
+                <e p="VoxelUtility.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Legacy" t="Include">
+            <e p="LegacyAIPath.cs" t="Include" />
+            <e p="LegacyRVOController.cs" t="Include" />
+            <e p="LegacyRichAI.cs" t="Include" />
+            <e p="MiscLegacy.cs" t="Include" />
+          </e>
+          <e p="Modifiers" t="Include">
+            <e p="AdvancedSmooth.cs" t="Include" />
+            <e p="AlternativePath.cs" t="Include" />
+            <e p="FunnelModifier.cs" t="Include" />
+            <e p="Modifiers.cs" t="Include" />
+            <e p="RadiusModifier.cs" t="Include" />
+            <e p="RaycastModifier.cs" t="Include" />
+            <e p="SimpleSmoothModifier.cs" t="Include" />
+            <e p="StartEndModifier.cs" t="Include" />
+          </e>
+          <e p="Navmesh" t="Include">
+            <e p="NavmeshAdd.cs" t="Include" />
+            <e p="NavmeshCut.cs" t="Include" />
+            <e p="RelevantGraphSurface.cs" t="Include" />
+            <e p="TileHandlerHelper.cs" t="Include" />
+          </e>
+          <e p="PackageTools" t="Include">
+            <e p="EnumFlagAttribute.cs" t="Include" />
+            <e p="UniqueComponentAttribute.cs" t="Include" />
+            <e p="VersionedMonoBehaviour.cs" t="Include" />
+          </e>
+          <e p="Pathfinders" t="Include">
+            <e p="ABPath.cs" t="Include" />
+            <e p="ConstantPath.cs" t="Include" />
+            <e p="FleePath.cs" t="Include" />
+            <e p="FloodPath.cs" t="Include" />
+            <e p="FloodPathTracer.cs" t="Include" />
+            <e p="MultiTargetPath.cs" t="Include" />
+            <e p="RandomPath.cs" t="Include" />
+            <e p="XPath.cs" t="Include" />
+          </e>
+          <e p="RVO" t="Include">
+            <e p="RVOController.cs" t="Include" />
+            <e p="RVONavmesh.cs" t="Include" />
+            <e p="RVOObstacle.cs" t="Include" />
+            <e p="RVOSimulator.cs" t="Include" />
+            <e p="RVOSquareObstacle.cs" t="Include" />
+          </e>
+          <e p="TurnBased" t="Include">
+            <e p="BlockManager.cs" t="Include" />
+            <e p="SingleNodeBlocker.cs" t="Include" />
+          </e>
+          <e p="Utilities" t="Include">
+            <e p="AnimationLinkTraverser.cs" t="Include" />
+            <e p="AstarChecksum.cs" t="Include" />
+            <e p="AstarMemory.cs" t="Include" />
+            <e p="AstarParallel.cs" t="Include" />
+            <e p="AstarProfiler.cs" t="Include" />
+            <e p="DotNetReplacements.cs" t="Include" />
+            <e p="Funnel.cs" t="Include" />
+            <e p="GraphGizmoHelper.cs" t="Include" />
+            <e p="GraphUpdateUtilities.cs" t="Include" />
+            <e p="PathUtilities.cs" t="Include" />
+            <e p="ProfileHelper.cs" t="Include" />
+            <e p="RetainedGizmos.cs" t="Include" />
+            <e p="UnityReferenceHelper.cs" t="Include" />
+          </e>
+          <e p="changelog.cs" t="Include" />
+        </e>
+        <e p="Dll" t="Include">
+          <e p="MathNet.Numerics.xml" t="Include" />
+          <e p="Newtonsoft.Json.xml" t="Include" />
+          <e p="System.Net.Http.Primitives.xml" t="Include" />
+        </e>
+        <e p="EditorScript" t="Include">
+          <e p="Ro.Unity" t="Include">
+            <e p="Ro" t="Include">
+              <e p="AddPrefab.cs" t="Include" />
+              <e p="AssetManager.cs" t="Include" />
+              <e p="AssetManagerEnv.cs" t="Include" />
+              <e p="AssetManagerScene.cs" t="Include" />
+              <e p="AssetManagerUtil.cs" t="Include" />
+              <e p="BakDeletedAsset.cs" t="Include" />
+              <e p="BuildBase.cs" t="Include" />
+              <e p="ClearConsoleOutput.cs" t="Include" />
+              <e p="Conf.cs" t="Include" />
+              <e p="CopySelectedPath.cs" t="Include" />
+              <e p="DrawRoLine.cs" t="Include" />
+              <e p="EW.cs" t="Include" />
+              <e p="EditorCtrl.cs" t="Include" />
+              <e p="EditorEnv.cs" t="Include" />
+              <e p="EditorListView.cs" t="Include" />
+              <e p="EditorUtil.cs" t="Include" />
+              <e p="FocusHierarchySearchbar.cs" t="Include" />
+              <e p="FocusProjectSearchbar.cs" t="Include" />
+              <e p="ListGameObjectStatics.cs" t="Include" />
+              <e p="ListGameObjects.cs" t="Include" />
+              <e p="MainThrDispatcher.cs" t="Include" />
+              <e p="MoveAndJump.cs" t="Include" />
+              <e p="Navigate" t="Include">
+                <e p="ToConsole.cs" t="Include" />
+                <e p="ToForwardObject.cs" t="Include" />
+                <e p="ToGame.cs" t="Include" />
+                <e p="ToInspector.cs" t="Include" />
+                <e p="ToLastObject.cs" t="Include" />
+                <e p="ToProject.cs" t="Include" />
+                <e p="ToScene.cs" t="Include" />
+                <e p="ToTestRunner.cs" t="Include" />
+              </e>
+              <e p="NavigateTo.cs" t="Include" />
+              <e p="NavigateToObject.cs" t="Include" />
+              <e p="NavigateToPath.cs" t="Include" />
+              <e p="Object" t="Include">
+                <e p="AddNotScaleMaterialCube.cs" t="Include" />
+                <e p="AddNotScaleMaterialFace.cs" t="Include" />
+                <e p="AddObject.cs" t="Include" />
+              </e>
+              <e p="OnOpenAsset.cs" t="Include" />
+              <e p="OpenPj.cs" t="Include" />
+              <e p="PlayOrReload.cs" t="Include" />
+              <e p="Popup.cs" t="Include" />
+              <e p="ReImportAllEditorScripts.cs" t="Include" />
+              <e p="Refresh.cs" t="Include" />
+              <e p="ReimportAllScripts.cs" t="Include" />
+              <e p="Replay.cs" t="Include" />
+              <e p="ReplayRoTestScene.cs" t="Include" />
+              <e p="RoAddComponent.cs" t="Include" />
+              <e p="RoEditorGUI.cs" t="Include" />
+              <e p="RoGui.cs" t="Include" />
+              <e p="RunTests.cs" t="Include" />
+              <e p="Startup" t="Include">
+                <e p="AutoSave.cs" t="Include" />
+                <e p="ChangeUnityEditorWindowTitle.cs" t="Include" />
+                <e p="CodeLint" t="Include">
+                  <e p="DraftAndTestScriptShouldBeIgnoredInBuild.cs" t="Include" />
+                  <e p="MoveLibScriptsToStandardAssets.cs" t="Include" />
+                </e>
+                <e p="CodeLint.cs" t="Include" />
+                <e p="EnableAutoRefresh.cs" t="Include" />
+                <e p="MakeSureEditorScriptOnlyRunInEditor.cs" t="Include" />
+                <e p="MakeSureGitConf.cs" t="Include" />
+                <e p="ProbuilderDisableTooltip.cs" t="Include" />
+                <e p="ReceiveRiderCmd.cs" t="Include" />
+                <e p="ShowLogInRider.cs" t="Include" />
+                <e p="StartupMain.cs" t="Include" />
+              </e>
+              <e p="StopPlay.cs" t="Include" />
+              <e p="SyncRoDeps.cs" t="Include" />
+              <e p="ToRoTestScene.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="AddCtrl.cs" t="Include" />
+                <e p="AddHorizontalLayout.cs" t="Include" />
+                <e p="AddProgressbar.cs" t="Include" />
+                <e p="AddVerticalLayout.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Ro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LuckiestGuy" t="Include">
+                <e p="LICENSE.txt" t="Include" />
+              </e>
+              <e p="OpenSans" t="Include">
+                <e p="LICENSE.txt" t="Include" />
+              </e>
+              <e p="artianniugbbd_test" t="Include">
+                <e p="Readme.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="Lib" t="Include">
+            <e p="Ro.Unity" t="Include">
+              <e p="Ro" t="Include">
+                <e p="BirdEyeCameraFollowCharacter.cs" t="Include" />
+                <e p="Cache.cs" t="Include" />
+                <e p="CameraFollowCharacter.cs" t="Include" />
+                <e p="CanExternalCtrlObject.cs" t="Include" />
+                <e p="Character.cs" t="Include" />
+                <e p="Env.cs" t="Include" />
+                <e p="Ext" t="Include">
+                  <e p="GameobjectExt.cs" t="Include" />
+                  <e p="MonoBehaviourExt.cs" t="Include" />
+                  <e p="TransformExt.cs" t="Include" />
+                  <e p="UI" t="Include">
+                    <e p="CtrlExt.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="MathUtil.cs" t="Include" />
+                <e p="Object" t="Include">
+                  <e p="NotScaleMaterialCube.cs" t="Include" />
+                  <e p="NotScaleMaterialFace.cs" t="Include" />
+                </e>
+                <e p="PrprScript.cs" t="Include" />
+                <e p="RoLine.cs" t="Include" />
+                <e p="RunTestsScript.cs" t="Include" />
+                <e p="TestCase.cs" t="Include" />
+                <e p="TestScript.cs" t="Include" />
+                <e p="TestUtil.cs" t="Include" />
+                <e p="ThirdPersonControllerCharacterExt.cs" t="Include" />
+                <e p="UI" t="Include">
+                  <e p="Button.cs" t="Include" />
+                  <e p="Container.cs" t="Include" />
+                  <e p="Ctrl.cs" t="Include" />
+                  <e p="CtrlAnchor.cs" t="Include" />
+                  <e p="GridView.cs" t="Include" />
+                  <e p="H.cs" t="Include" />
+                  <e p="HorizOrVertical.cs" t="Include" />
+                  <e p="Image.cs" t="Include" />
+                  <e p="ListOrGridView.cs" t="Include" />
+                  <e p="ListOrGridViewItem.cs" t="Include" />
+                  <e p="ListView.cs" t="Include" />
+                  <e p="Panel.cs" t="Include" />
+                  <e p="Progressbar.cs" t="Include" />
+                  <e p="RoUI.cs" t="Include" />
+                  <e p="Scrollbar.cs" t="Include" />
+                  <e p="Text.cs" t="Include" />
+                  <e p="UIObject.cs" t="Include" />
+                  <e p="V.cs" t="Include" />
+                </e>
+                <e p="Util.cs" t="Include" />
+                <e p="VisibleForce.cs" t="Include" />
+                <e p="Watches.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Suriyun" t="Include">
+          <e p="Script" t="Include">
+            <e p="AnimatorController.cs" t="Include" />
+            <e p="Camera Scripts" t="Include">
+              <e p="MouseOrbitImproved.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Assets/Suriyun" t="Include">
+        <e p="README.txt" t="Include" />
+        <e p="UnityChanShader_v1.2.4" t="Include">
+          <e p="Shader" t="Include">
+            <e p="CharaMain.cginc" t="Include" />
+            <e p="CharaOutline.cginc" t="Include" />
+            <e p="CharaSkin.cginc" t="Include" />
+            <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+            <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+            <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+            <e p="Unitychan_chara_fuku.shader" t="Include" />
+            <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+            <e p="Unitychan_chara_hada.shader" t="Include" />
+            <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+            <e p="Unitychan_chara_hair.shader" t="Include" />
+            <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Test.Ro.Character.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

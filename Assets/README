@@ -1,0 +1,7 @@
+Characters common used script(for ex, move and jump) and animator
+
+# how to use this project as dep
+output character final prefab in Ro.Characters
+script can be inherited, or I can get other script to access exist character script
+animator controller cannot be inherited, so in my project, dup exist animator controller and change it, Ro.Character animator controller just a demo
+
